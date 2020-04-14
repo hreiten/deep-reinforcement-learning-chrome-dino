@@ -6,7 +6,7 @@ This is an implementation of the algorithm proposed in [this research article](h
 Some practical implementations that have been used for inspiration:
 
 - https://pythonprogramming.net/deep-q-learning-dqn-reinforcement-learning-python-tutorial/
-- https://blog.paperspace.com/dino-run/
+- https://github.com/Paperspace/DinoRunTutorial
 
 ## Description and implementation
 
